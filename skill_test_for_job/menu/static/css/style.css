@@ -1,0 +1,20 @@
+body{
+	background-color: #CFF0F5;
+	/*display: flex;*/
+}
+
+
+.menu{
+	margin: 1%;
+	padding: 2%;
+	border-radius: 5px;
+	border-color: black;
+	border: 2px solid;
+	width: 20%;
+}
+
+
+.menu p a{
+	text-decoration: none;
+	color: black;
+}
